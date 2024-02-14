@@ -1,4 +1,4 @@
-#Carosel Layout - Layout di un Carosello infinito 
+# Carosel Layout - Layout di un Carosello infinito 
 
 Questa è una soluzione per eseguire questo esercizio puramente dal lato visivo con il solo uso di HTML CSS e Javascript Plain.
 
